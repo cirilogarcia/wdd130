@@ -34,7 +34,7 @@ main section {
 }
 body {
     background-color: #fcfbfb; 
-    font-family: Roboto Slab, Helvetica, sans-serif;
+    font-family: "Roboto Slab", Helvetica, sans-serif;
     margin: 0;
     padding: 0;
 }
